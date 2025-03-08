@@ -163,5 +163,9 @@ The Half Adder was implemented on the **Artix-7 Nexys A7-100T FPGA board** with 
 ![RTL Design](https://github.com/user-attachments/assets/615d8134-43ac-465b-b90a-3a80c75eecc1)
 
 ---
+## **GitHub Repository**  
+🔗 **Check out the full project on GitHub:** [https://s2sofficial.github.io/vhdl/]  
+
+---
 
 **Made by Swaroop Kumar Yadav**  
