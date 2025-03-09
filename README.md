@@ -11,3 +11,4 @@
     - [16 x 1 Mux](multiplexer/dataflow_16x1)
 5. [Encoder](encoder)
     - [4 x 2 Encoder](encoder/structural_4x2)
+6. [4 Bit Ripple Carry Adder (Board Implementation)](RCA_Adder4Bit)
