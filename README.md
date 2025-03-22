@@ -12,3 +12,4 @@
 5. [Encoder](encoder)
     - [4 x 2 Encoder](encoder/structural_4x2)
 6. [4 Bit Ripple Carry Adder (Board Implementation)](RCA_Adder4Bit)
+7. [Interfacing Seven Segment Display using VHDL(Board Implementation](7SegmentDisplay)
