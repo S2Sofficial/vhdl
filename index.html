@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>VHDL Programming Repository</title>
+  <style>
+    /* General Styling */
+    body {
+      font-family: 'Times New Roman', serif;
+      line-height: 1.6;
+      margin: 20px;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+
+    h1, h2, h3 {
+      color: #0057b8; /* IEEE blue */
+    }
+
+    h1 {
+      text-align: center;
+      font-size: 2.5em;
+      margin-bottom: 20px;
+    }
+
+    h2 {
+      font-size: 1.8em;
+      margin-top: 30px;
+      border-bottom: 2px solid #ddd;
+      padding-bottom: 5px;
+    }
+
+    h3 {
+      font-size: 1.4em;
+      margin-top: 20px;
+    }
+
+    p, ul, ol {
+      font-size: 1em;
+      margin: 10px 0;
+    }
+
+    a {
+      color: #d32f2f; /* IEEE red */
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    /* Table of Contents */
+    .toc {
+      background-color: #fff;
+      padding: 15px;
+      border: 1px solid #ddd;
+      border-radius: 5px;
+      margin-bottom: 20px;
+    }
+
+    .toc ul {
+      list-style-type: none;
+      padding-left: 20px;
+    }
+
+    .toc li {
+      margin: 5px 0;
+    }
+
+    /* Section Styling */
+    section {
+      background-color: #fff;
+      padding: 20px;
+      border: 1px solid #ddd;
+      border-radius: 5px;
+      margin-bottom: 20px;
+    }
+
+    /* Footer */
+    footer {
+      text-align: center;
+      font-size: 0.9em;
+      color: #666;
+      margin-top: 30px;
+    }
+
+    /* Responsive Design */
+    @media (max-width: 768px) {
+      h1 {
+        font-size: 2em;
+      }
+
+      h2 {
+        font-size: 1.5em;
+      }
+
+      h3 {
+        font-size: 1.2em;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Title -->
+  <h1>VHDL Programming Repository</h1>
+
+  <!-- Abstract -->
+  <section>
+    <h2>Abstract</h2>
+    <p>This repository contains various VHDL projects designed for learning and practicing digital design concepts such as Finite State Machines (FSMs), arithmetic units, and CPU implementation. Dive into the world of hardware description languages with hands-on examples!</p>
+  </section>
+
+  <!-- Table of Contents -->
+  <div class="toc">
+    <h2>Table of Contents</h2>
+    <ul>
+      <li><a href="#introduction">1. Introduction</a></li>
+      <li><a href="#basic-gates">2. Basic Gates</a></li>
+      <li><a href="#half-adder">3. Half Adder</a></li>
+      <li><a href="#full-adder">4. Full Adder</a></li>
+      <li><a href="#multiplexer">5. Multiplexer</a></li>
+      <li><a href="#encoder">6. Encoder</a></li>
+      <li><a href="#decoder">7. Decoder</a></li>
+      <li><a href="#ripple-carry-adder">8. 4-Bit Ripple Carry Adder</a></li>
+      <li><a href="#seven-segment-display">9. Seven Segment Display</a></li>
+      <li><a href="#alu">10. Arithmetic Logic Unit (ALU)</a></li>
+      <li><a href="#tools">11. Tools Used</a></li>
+      <li><a href="#contributions">12. Contributions</a></li>
+      <li><a href="#contact">13. Contact</a></li>
+    </ul>
+  </div>
+
+  <!-- Sections -->
+  <section id="introduction">
+    <h2>1. Introduction</h2>
+    <p>This repository serves as a collection of VHDL projects aimed at teaching and practicing digital design principles. The projects cover a wide range of topics, including combinational and sequential circuits, arithmetic units, and FPGA implementation.</p>
+  </section>
+
+  <section id="basic-gates">
+    <h2>2. Basic Gates</h2>
+    <p>Implementations of fundamental logic gates like AND, OR, NOT, NAND, NOR, XOR, and XNOR using VHDL.</p>
+  </section>
+
+  <section id="half-adder">
+    <h2>3. Half Adder</h2>
+    <p>A basic combinational circuit that adds two single binary digits and produces a sum and carry.</p>
+    <h3>Structural Modelling</h3>
+    <p>Learn how to describe circuits using structural modeling techniques in VHDL.</p>
+  </section>
+
+  <section id="full-adder">
+    <h2>4. Full Adder</h2>
+    <p>An extension of the half adder, capable of adding three binary inputs.</p>
+    <h3>Behavioral Modelling</h3>
+    <p>Explore behavioral modeling in VHDL to describe the functionality of circuits without focusing on their structure.</p>
+    <h3>Dataflow Modelling</h3>
+    <p>Understand dataflow modeling, where signal flow is emphasized over structural or behavioral details.</p>
+  </section>
+
+  <section id="multiplexer">
+    <h2>5. Multiplexer</h2>
+    <h3>4 x 1 Mux</h3>
+    <p>A 4-to-1 multiplexer selects one of four input lines and forwards it to the output.</p>
+    <h3>16 x 1 Mux</h3>
+    <p>A larger multiplexer that selects one of sixteen input lines.</p>
+  </section>
+
+  <section id="encoder">
+    <h2>6. Encoder</h2>
+    <h3>4 x 2 Encoder</h3>
+    <p>Encodes 4 input lines into 2 output lines.</p>
+    <h3>8 x 3 Priority Encoder</h3>
+    <p>Assigns priority to inputs and encodes them into 3 output lines.</p>
+  </section>
+
+  <section id="decoder">
+    <h2>7. Decoder</h2>
+    <h3>3x8 Decoder</h3>
+    <p>Decodes 3 input lines into 8 output lines.</p>
+  </section>
+
+  <section id="ripple-carry-adder">
+    <h2>8. 4-Bit Ripple Carry Adder</h2>
+    <p>A ripple carry adder implemented on an FPGA board for practical testing.</p>
+  </section>
+
+  <section id="seven-segment-display">
+    <h2>9. Seven Segment Display</h2>
+    <p>Control seven-segment displays using VHDL code, with real-world board implementation.</p>
+  </section>
+
+  <section id="alu">
+    <h2>10. Arithmetic Logic Unit (ALU)</h2>
+    <p>Design and implement a basic ALU for performing arithmetic and logic operations on an FPGA.</p>
+  </section>
+
+  <section id="tools">
+    <h2>11. Tools Used</h2>
+    <ul>
+      <li><strong>Xilinx Vivado</strong>: For simulation and FPGA implementation.</li>
+      <li><strong>ModelSim</strong>: For functional and timing simulations.</li>
+      <li><strong>GHDL & GTKWave</strong>: Open-source tools for VHDL simulation.</li>
+      <li><strong>Artix-7 Nexys A7-100T</strong>: FPGA board used for hardware testing.</li>
+    </ul>
+  </section>
+
+  <section id="contributions">
+    <h2>12. Contributions</h2>
+    <p>Contributions are welcome! Feel free to:</p>
+    <ul>
+      <li>Fork this repository.</li>
+      <li>Add improvements or new VHDL projects.</li>
+      <li>Submit pull requests (PRs).</li>
+    </ul>
+  </section>
+
+  <section id="contact">
+    <h2>13. Contact</h2>
+    <p>For any queries or feedback, feel free to reach out:</p>
+    <p><strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/swaroop2sky/">Swaroop Kumar Yadav</a></p>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <p>&copy; 2023 Swaroop Kumar Yadav. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
