@@ -22,7 +22,7 @@ This repository contains different VHDL projects for learning and practicing dig
 9. [Arithmetic Logic Unit(ALU) into FPGA](ALU)
 10. [Moore based Sequence Detector FSM](mooreFSM)
 11. [Melay based Sequence Detector FSM](melayFSM)
-12. [4 Bit Universal Shift Register](usr)
+12. [4 Bit Universal Shift Register](Shiftreg)
 
 ---
 
