@@ -23,7 +23,6 @@ This repository contains different VHDL projects for learning and practicing dig
 10. [Moore based Sequence Detector FSM](mooreFSM)
 11. [Melay based Sequence Detector FSM](melayFSM)
 
-
 ---
 
 ### 🛠️ Tools Used  
