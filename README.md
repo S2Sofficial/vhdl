@@ -19,7 +19,9 @@ This repository contains different VHDL projects for learning and practicing dig
     - [3x8 Decoder](decoder/3x8)
 7. [4 Bit Ripple Carry Adder (Board Implementation)](RCA_Adder4Bit)
 8. [Interfacing Seven Segment Display using VHDL(Board Implementation](7SegmentDisplay)
-9. [Arithmetic Logic Unit(ALU)](ALU)
+9. [Arithmetic Logic Unit(ALU) into FPGA](ALU)
+10. [Moore based Sequence Detector FSM](mooreFSM)
+11. [Melay based Sequence Detector FSM](melayFSM)
 
 ---
 
