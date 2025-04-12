@@ -190,5 +190,9 @@ set_property IOSTANDARD LVCMOS33 [get_ports dout]
 ## ✅ Status
 
 - [x] Simulation ✅
+      ![Simulation](https://github.com/user-attachments/assets/2cfc7f35-aa0e-40c7-a3ba-24d985785ecc)
+
 - [x] Synthesized on Nexys A7 ✅
+      ![Synthesized Design](https://github.com/user-attachments/assets/a653c37f-b9ac-4210-9eae-22c57e765b4d)
+
 - [x] Hardware Tested ✅
