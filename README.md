@@ -1,6 +1,11 @@
 # VHDL Programming Repository 
 
+![VHDL Banner](https://github.com/user-attachments/assets/a572af56-0f39-4419-9835-92f1f47d61b7)
 This repository contains different VHDL projects for learning and practicing digital design, FSMs, arithmetic units, and CPU implementation. 
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/s2sofficial/vhdl)](https://github.com/s2sofficial/vhdl)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+![GitHub stars](https://img.shields.io/github/stars/s2sofficial/vhdl?style=social)
 
 ## Table of Contents  
 1. [Basic Gates](basic_gates)
@@ -37,3 +42,6 @@ Feel free to fork this repo, add improvements, and submit PRs!
 
 ### 📬 Contact  
 For queries, reach out on **LinkedIn: [Swaroop Kumar Yadav](https://www.linkedin.com/in/swaroop2sky/)** 
+
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red)](mailto:swaroop.k.yadav@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/swaroop2sky)
