@@ -4,7 +4,7 @@
 This repository contains different VHDL projects for learning and practicing digital design, FSMs, arithmetic units, and CPU implementation. 
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/s2sofficial/vhdl)](https://github.com/s2sofficial/vhdl)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-CERN_OHL-blue.svg)](LICENSE)
 ![GitHub stars](https://img.shields.io/github/stars/s2sofficial/vhdl?style=social)
 
 ## Table of Contents  
