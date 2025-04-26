@@ -301,6 +301,8 @@ Below are the **simulation waveform results** and **FPGA output images** showcas
     ![Elaborated Design](https://github.com/user-attachments/assets/ac87f000-1234-4007-8b8d-08935552502a)
 - Waveform Analysis
     ![Waveform Analysis](https://github.com/user-attachments/assets/432f1c85-e7aa-4877-9aae-86fe22c42666)
+- Hardware Implementation
+     ![ALU_Implementation](/ALU/ALU_ImplementationFPGA.gif)
 
 
 ---
