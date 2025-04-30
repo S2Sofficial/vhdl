@@ -23,13 +23,20 @@ This repository contains different VHDL projects for learning and practicing dig
     - [8 x 3 Priority Encoder](encoder/8x3_priority)
 7. [Decoder](decoder)
     - [3x8 Decoder](decoder/3x8)
-8. [4 Bit Ripple Carry Adder (Board Implementation)](RCA_Adder4Bit)
+8. [4-bit Ripple Carry Adder (Board Implementation)](RCA_Adder4Bit)
 9. [Interfacing Seven Segment Display using VHDL(Board Implementation](7SegmentDisplay)
 10. [Arithmetic Logic Unit(ALU) into FPGA](ALU)
 11. [Moore based Sequence Detector FSM](mooreFSM)
 12. [Melay based Sequence Detector FSM](melayFSM)
-13. [4 Bit Universal Shift Register](Shiftreg)
-14. [Programmable Logic Devices](pld)
+13. [Counters](counter)
+    - [8-bit Up Down counter with Synchronous Reset and Load](counter/up_down_counter_syncrst)
+    - [8-bit Up Down counter with Asynchronous Reset and Synchronous Load](counter/updown_asyn_reset_sync_load)
+
+14. [Shift Register](shiftreg)
+    - [8-bit Universal Shift Register with Asynchronous Reset and Synchronous Load](shiftreg/univshiftreg8_asyncRst)
+    - [8-bit Universal Shift Register with Synchronous Reset and Load](shiftreg/univshiftreg8_syncRst)
+    - [4-bit Shift Register](shiftreg/shiftreg4bit)
+15. [Programmable Logic Devices](pld)
 
 ---
 
