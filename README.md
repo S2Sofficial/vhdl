@@ -42,6 +42,14 @@ This repository contains different VHDL projects for learning and practicing dig
 
 ---
 
+## [Semster Project - Digital Clock using Artix-7 100T FPGA board](DigitalClock)
+[![lowDogitalClock](https://github.com/user-attachments/assets/27dba9de-8b7c-4cd4-acd9-bdeb16f220a4)](DigitalClock)
+
+This project is a **24-hour Digital Clock** implemented using **VHDL** and tested on the **Nexys A7-100T FPGA board**. It displays real-time hours, minutes, and seconds using a 6-digit **7-segment display**. This is **not a typical learning exercise**—it's a **complete semester project** submitted for academic evaluation at HNB Garhwal University, under the subject *Digital System Design using VHDL*.
+
+
+---
+
 ### 🛠️ Tools Used  
 - **Xilinx Vivado** (Simulation & FPGA Implementation)  
 - **ModelSim** (Functional & Timing Simulation)  
@@ -49,6 +57,7 @@ This repository contains different VHDL projects for learning and practicing dig
 - **Artix-7 Nexys A7-100T** (FPGA Board for Hardware Testing) 
 
 ### 🤝 Contributions  
+
 Feel free to fork this repo, add improvements, and submit PRs!  
 
 ### 📬 Contact  
