@@ -1,4 +1,5 @@
 # Digital Clock in VHDL (24-Hour Format – Semester Project)
+![DigitalClock](https://github.com/user-attachments/assets/27dba9de-8b7c-4cd4-acd9-bdeb16f220a4)
 
 ## 🧾 Project Description
 
@@ -119,6 +120,7 @@ RTL Design of 1KHz and 1Hz Clock
 
 ![image](https://github.com/user-attachments/assets/69b1ac95-0cfa-4575-9f52-4c4e33477363)
 RTL Design of MOD-6-Counter
+
 
 ![image](https://github.com/user-attachments/assets/0b526320-626c-47a6-85c6-e87b5a25b760)
 RTL Design of Decoder
