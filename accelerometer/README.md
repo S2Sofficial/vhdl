@@ -6,10 +6,12 @@ This project implements real-time interfacing of the on-board 3-axis MEMS accele
 The entire design is written in **Verilog HDL** and runs purely in hardware, without any soft-core processor or embedded software. The project demonstrates practical sensor interfacing, SPI communication, clock management, and real-time digital display on FPGA.
 
 ---
-<video width="360" controls>
-  <source src="fpgispiaccelerator_25mb.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![accelerometer_06](https://github.com/user-attachments/assets/84e2a01d-6ef4-47ef-bfa9-bb1ba18d699a)
+![accelerometer_05](https://github.com/user-attachments/assets/08223fa1-f7b2-454f-9a22-a2b4deea5f83)
+![accelerometer_04](https://github.com/user-attachments/assets/0f4241a0-a4cd-4d3c-b1a0-db1326d392bf)
+![accelerometer_03](https://github.com/user-attachments/assets/49d8b958-9119-46c4-8101-389edba1979c)
+![accelerometer_02](https://github.com/user-attachments/assets/2c1f5365-41eb-4a0f-b354-21596cddeb7d)
+![accelerometer_01](https://github.com/user-attachments/assets/6f408524-19c2-4132-a2ef-6da6a5296e2f)
 
 ---
 ## Hardware Used
