@@ -6,6 +6,7 @@ This repository contains different VHDL projects for learning and practicing dig
 [![GitHub last commit](https://img.shields.io/github/last-commit/s2sofficial/vhdl)](https://github.com/s2sofficial/vhdl)
 [![License](https://img.shields.io/badge/License-CERN_OHL-blue.svg)](LICENSE)
 ![GitHub stars](https://img.shields.io/github/stars/s2sofficial/vhdl?style=social)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=s2sofficial.vhdl)
 
 ## Table of Contents  
 1. [Basic Gates](basic_gates)
@@ -33,17 +34,16 @@ This repository contains different VHDL projects for learning and practicing dig
 13. [Counters](counter)
     - [8-bit Up Down counter with Synchronous Reset and Load](counter/up_down_counter_syncrst)
     - [8-bit Up Down counter with Asynchronous Reset and Synchronous Load](counter/updown_asyn_reset_sync_load)
-
 14. [Shift Register](shiftreg)
     - [8-bit Universal Shift Register with Asynchronous Reset and Synchronous Load](shiftreg/univshiftreg8_asyncRst)
     - [8-bit Universal Shift Register with Synchronous Reset and Load](shiftreg/univshiftreg8_syncRst)
     - [4-bit Shift Register](shiftreg/shiftreg4bit)
-15. [Programmable Logic Devices](pld)
+15. [Accelerometer](accelerometer)
 
 ---
 
 ## [Semster Project - Digital Clock using Artix-7 100T FPGA board](DigitalClock)
-[![lowDogitalClock](https://github.com/user-attachments/assets/27dba9de-8b7c-4cd4-acd9-bdeb16f220a4)](DigitalClock)
+[<img width="40%" alt="image" src="https://github.com/user-attachments/assets/27dba9de-8b7c-4cd4-acd9-bdeb16f220a4" />](DigitalClock)
 
 This project is a **24-hour Digital Clock** implemented using **VHDL** and tested on the **Nexys A7-100T FPGA board**. It displays real-time hours, minutes, and seconds using a 6-digit **7-segment display**. This is **not a typical learning exercise**—it's a **complete semester project** submitted for academic evaluation at HNB Garhwal University, under the subject *Digital System Design using VHDL*.
 
@@ -52,7 +52,8 @@ This project is a **24-hour Digital Clock** implemented using **VHDL** and teste
 
 ### 🛠️ Tools Used  
 - **Xilinx Vivado** (Simulation & FPGA Implementation)  
-- **ModelSim** (Functional & Timing Simulation)  
+- **ModelSim** (Functional & Timing Simulation)
+- **Icarus Verilog** (For Open source compilation)
 - **GHDL & GTKWave** (For Open-Source Simulation)  
 - **Artix-7 Nexys A7-100T** (FPGA Board for Hardware Testing) 
 
