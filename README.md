@@ -64,5 +64,8 @@ Feel free to fork this repo, add improvements, and submit PRs!
 ### 📬 Contact  
 For queries, reach out on **LinkedIn: [Swaroop Kumar Yadav](https://www.linkedin.com/in/swaroop2sky/)** 
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hi everyone,<br>Recently I gained around 400+ followers, so it&#39;s a best time to share about myself.<br><br>I am Swaroop, graduating in few month, in ECE.<br>I am building a real time MNIST digit recognition using CNN with FPGA.<br>My interests are Embedded and Photography. <a href="https://t.co/8AZHSVXHtW">pic.twitter.com/8AZHSVXHtW</a></p>&mdash; Swaroop Kumar Yadav (@S2SmeX) <a href="https://twitter.com/S2SmeX/status/2042924620681220527?ref_src=twsrc%5Etfw">April 11, 2026</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red)](mailto:swaroop.k.yadav@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/swaroop2sky)
